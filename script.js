@@ -7,7 +7,7 @@ const loader = document.getElementById("loader");
 
 // Show Loading
 function loading() {
-  loader.hidden = false;
+  loader.hidden = false; //making it to show
   quoteContainer.hidden = true;
 }
 
